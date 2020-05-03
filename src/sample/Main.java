@@ -21,6 +21,8 @@ public class Main extends Application {
 
         BorderPane bpane = new BorderPane();
         BorderPane Mirsa = new BorderPane();
+        BorderPane Mirsa2 = new BorderPane();
+
 
 
         Scene scene = new Scene(bpane, 650, 500);
